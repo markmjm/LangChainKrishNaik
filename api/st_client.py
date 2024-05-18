@@ -1,3 +1,7 @@
+#
+#Instructions on how to install local llama ... use: ollama run gemma:2b
+#https://github.com/ollama/ollama
+
 import requests
 import streamlit as st
 

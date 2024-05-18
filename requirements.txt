@@ -1,3 +1,4 @@
+langchain
 langchain_openai
 langchain_core
 python-dotenv
@@ -18,3 +19,7 @@ langchain-groq
 wikipedia
 arxiv
 langchainhub
+flask
+flask-api
+jupyter
+ipykernel

@@ -22,11 +22,6 @@ app = FastAPI(
     description="A simple API Server"
 )
 
-add_routes(
-    app,
-    ChatOpenAI(),
-    path="/openai"
-)
 openai_llm = ChatOpenAI()
 ollama_llm = Ollama(model="gemma:2b")
 
